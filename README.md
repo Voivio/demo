@@ -14,3 +14,8 @@
 
    把本地内容推送到github上
 
+4. 在github上对README.md进行修改，再在本地上运行
+
+   `git pull origin master`
+   
+   把远端内容存回本地
