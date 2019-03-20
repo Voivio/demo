@@ -19,3 +19,5 @@
    `git pull origin master`
    
    把远端内容存回本地
+   
+5. 创建了testing分支，在本地merge之后把master和testing分支一并上传
